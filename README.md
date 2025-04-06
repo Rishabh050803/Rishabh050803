@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I'm Rishabh Kumar Patel — a Machine Learning & Full-Stack Enthusiast from India 🇮🇳</h2>
 
 ###
 
@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/rishabh.since2003/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="rishu050803@gmail.com" target="_blank">
+  <a href="mailto:rishu050803@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rishabh-kumar-patel-6ab66b303" target="_blank">
@@ -57,6 +57,25 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Hello World!! Thanks for stopping by 🧠💻🚀</p>
 
-###
+---
+
+### 🤓 A little about me:
+
+- 🎓 Currently studying Artificial Intelligence & Data Engineering  
+- 🛠️ Passionate about Machine Learning, DSA, and building cool stuff  
+- 👨‍💻 Backend guy with love for Django & APIs (and now venturing into full-stack too!)  
+- 🧠 Always curious — be it tech, philosophy, or geopolitics  
+- 📈 Believer in consistent growth — one commit at a time  
+
+---
+
+### 🎉 Fun Facts About Me:
+
+- 🥇 Was the School Captain leading 600+ students (yep, a born leader 😎)
+- 🧠 My LeetCode Knight badge shines brighter than my Diwali lights ✨
+- 🕹️ I once thought I’d grow up to be an engineer in Tony Stark’s lab 😅 (still not giving up tho...)
+
+---
+
